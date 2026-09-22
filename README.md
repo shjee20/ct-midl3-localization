@@ -13,7 +13,7 @@ The main objective is to improve mid-L3 slice identification by combining **dist
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/51f7fcd8-9e01-481e-b663-60a2efa4757a"
+    src="https://github.com/user-attachments/assets/3a85c36d-c98e-4f65-a1be-e3af39d7de38"
     alt="그림3"
     width="800"
   />
